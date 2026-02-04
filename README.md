@@ -65,19 +65,6 @@ superpower: "bro can you help me real quick?" — always delivers
 
 ---
 
-## 🎯 Current Focus
-
-```js
-const dido = {
-    learning: ["System Design", "Distributed Systems", "Cloud Architecture"],
-    building: "Something cool 👀",
-    goal2024: "Ship more, learn more, help more",
-    askMeAbout: ["Go", "Java", "Backend", "APIs", "Docker", "Life advice"]
-};
-```
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
