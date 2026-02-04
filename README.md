@@ -3,11 +3,7 @@
 <!-- ANIMATED HEADER -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=f6b26b&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+Dido;Computer+Engineer+%7C+Backend+Bro)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xHaitham/xHaitham/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xHaitham/xHaitham/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xHaitham/xHaitham/output/pacman-contribution-graph.svg">
-</picture>
+</div>
 
 ---
 
@@ -65,6 +61,19 @@ superpower: "bro can you help me real quick?" — always delivers
 
 ---
 
+## 🎯 Current Focus
+
+```js
+const dido = {
+    learning: ["System Design", "Distributed Systems", "Cloud Architecture"],
+    building: "Something cool 👀",
+    goal2026: "Ship more, learn more, help more",
+    askMeAbout: ["Go", "Java", "Backend", "APIs", "Docker", "Life advice"]
+};
+```
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -87,8 +96,10 @@ superpower: "bro can you help me real quick?" — always delivers
 
 ---
 
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/xDido/xDido/output/snake.svg" alt="Snake animation" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-
-
